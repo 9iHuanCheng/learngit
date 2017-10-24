@@ -1,0 +1,6 @@
+public class Byte{
+ public static void add(String []args){
+  int i,j;
+  system.out.print("this is java code"+(i+j));
+   }
+  }
