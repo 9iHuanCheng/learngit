@@ -1,0 +1,3 @@
+eclipse myeclipse idea
+baidu google sougou jike
+sudo su root sudo -a
